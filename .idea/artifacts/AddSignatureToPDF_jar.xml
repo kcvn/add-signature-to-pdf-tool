@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AddSignatureToPDF:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AddSignatureToPDF_jar</output-path>
+    <root id="archive" name="AddSignatureToPDF.jar">
+      <element id="module-output" name="AddSignatureToPDF" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../iTextLibs/kernel-9.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../iTextLibs/layout-9.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../iTextLibs/io-9.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../iTextLibs/commons-9.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../iTextLibs/slf4j-api-2.0.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../iTextLibs/slf4j-simple-2.0.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../iTextLibs/tika-app-2.9.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

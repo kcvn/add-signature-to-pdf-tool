@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="kernel-9.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../iTextLibs/kernel-9.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../iTextLibs/layout-9.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../iTextLibs/io-9.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../iTextLibs/commons-9.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../iTextLibs/slf4j-api-2.0.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../iTextLibs/slf4j-simple-2.0.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../iTextLibs/tika-app-2.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
